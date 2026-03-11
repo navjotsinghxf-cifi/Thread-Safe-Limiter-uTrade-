@@ -1,0 +1,6 @@
+{
+  "max_requests": 5,
+  "window_seconds": 10,
+  "token_capacity": 10,
+  "refill_rate": 1
+}
